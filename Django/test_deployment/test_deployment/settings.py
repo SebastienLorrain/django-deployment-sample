@@ -26,7 +26,7 @@ SECRET_KEY = 'u@4wwl-kfu+=1g0t5))6vcx5n_w_sz&yg3e3h0etf=zb#jsgr4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sebastienlorrain.pythonanywhere.com']
 
 
 # Application definition
